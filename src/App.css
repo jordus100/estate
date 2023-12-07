@@ -1,7 +1,4 @@
 .App img {
-    width: 95%
-}
-
-.App ul {
-    list-style-position: inside;
+    max-height: 95vh;
+    max-width: 100%;
 }
