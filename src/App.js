@@ -10,7 +10,7 @@ function App() {
             <h1 className="display-3 text-center my-4">Mieszkanie na Bysławskiej 12</h1>
             <h3 className="text-center mb-4">Przestronne, dwupoziomowe mieszkanie ok. 130 m<sup>2</sup>, w stanie deweloperskim, zlokalizowane w nowej, kameralnej inwestycji.<br></br></h3>
             <p className="mx-5">
-                Wygodny i nieodległy dojazd do Miasteczka przez trasę mostu Południowego.
+                Wygodny i nieodległy dojazd do Miasteczka Wilanów przez trasę mostu Południowego.
                 Dogodna bliskość przystanków komunikacji miejskiej i podstawowej infrastruktury.
             </p>
             <p className="mx-5">
@@ -29,7 +29,7 @@ function App() {
             </p>
             <p className="mx-5 text-center">
                 Pełna własność, KW bez obciążeń.<br/>
-                Cena: 11,5 tys./m<sup>2</sup><br/>
+                Cena: 12 tys./m<sup>2</sup><br/>
                 Oferta bezpośrednia.<br/>
                 Tel.: 501 062 472 Teresa
             </p>
